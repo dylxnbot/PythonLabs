@@ -1,0 +1,104 @@
+Large Red Velvet Cake Ingredient list:
+Flour:                      25.1 Oz
+Sugar:                      25.1 Oz
+Unsweetened Cocoa Powder:    0.4 Oz
+Baking Soda:                 0.8 Oz
+Salt:                        0.4 Oz
+Egg:                        10.1 Oz
+Buttermilk:                 20.0 Oz
+Oil:                        26.9 Oz
+Vanilla Extract:             0.3 Oz
+Red Food Coloring:           2.4 Oz
+Distilled Vinegar:           0.4 Oz
+
+Regular Lemon Cake Ingredient list:
+Butter:                      5.4 Oz
+Sugar:                       9.6 Oz
+Egg:                         5.8 Oz
+Sifted Self-Rising Flour:   10.0 Oz
+Buttermilk:                  5.8 Oz
+Vanilla Extract:             0.1 Oz
+Filling:
+	Egg Yolk:               11.5 Oz
+	Sugar:                   7.2 Oz
+	Butter:                  1.3 Oz
+	Lemon Juice and Zest:    7.3 Oz
+
+Large Lemon Cake Ingredient list:
+Butter:                      9.5 Oz
+Sugar:                      16.8 Oz
+Egg:                        10.1 Oz
+Sifted Self-Rising Flour:   17.5 Oz
+Buttermilk:                 10.1 Oz
+Vanilla Extract:             0.2 Oz
+Filling:
+	Egg Yolk:               20.0 Oz
+	Sugar:                  12.7 Oz
+	Butter:                  2.4 Oz
+	Lemon Juice and Zest:   12.8 Oz
+
+Regular Chocolate Cake Ingredient list:
+Flour:                      10.1 Oz
+Sugar:                      15.7 Oz
+Unsweetened Cocoa Powder:    3.6 Oz
+Baking Powder:               0.3 Oz
+Baking Soda:                 0.4 Oz
+Salt:                        0.3 Oz
+Egg:                         5.8 Oz
+Buttermilk:                 11.5 Oz
+Oil:                         5.2 Oz
+Vanilla Extract:             0.4 Oz
+Boiling Water:              10.9 Oz
+
+Regular Chocolate Cake Ingredient list:
+Flour:                      10.1 Oz
+Sugar:                      15.7 Oz
+Unsweetened Cocoa Powder:    3.6 Oz
+Baking Powder:               0.3 Oz
+Baking Soda:                 0.4 Oz
+Salt:                        0.3 Oz
+Egg:                         5.8 Oz
+Buttermilk:                 11.5 Oz
+Oil:                         5.2 Oz
+Vanilla Extract:             0.4 Oz
+Boiling Water:              10.9 Oz
+
+Large Chocolate Cake Ingredient list:
+Flour:                      17.7 Oz
+Sugar:                      27.4 Oz
+Unsweetened Cocoa Powder:    6.3 Oz
+Baking Powder:               0.4 Oz
+Baking Soda:                 0.7 Oz
+Salt:                        0.4 Oz
+Egg:                        10.1 Oz
+Buttermilk:                 20.2 Oz
+Oil:                         9.1 Oz
+Vanilla Extract:             0.7 Oz
+Boiling Water:              19.0 Oz
+
+Regular Red Velvet Cake Ingredient list:
+Flour:                      14.3 Oz
+Sugar:                      14.3 Oz
+Unsweetened Cocoa Powder:    0.3 Oz
+Baking Soda:                 0.4 Oz
+Salt:                        0.3 Oz
+Egg:                         5.8 Oz
+Buttermilk:                 11.5 Oz
+Oil:                        15.4 Oz
+Vanilla Extract:             0.2 Oz
+Red Food Coloring:           1.3 Oz
+Distilled Vinegar:           0.3 Oz
+
+Regular Red Velvet Cake Ingredient list:
+Flour:                      14.3 Oz
+Sugar:                      14.3 Oz
+Unsweetened Cocoa Powder:    0.3 Oz
+Baking Soda:                 0.4 Oz
+Salt:                        0.3 Oz
+Egg:                         5.8 Oz
+Buttermilk:                 11.5 Oz
+Oil:                        15.4 Oz
+Vanilla Extract:             0.2 Oz
+Red Food Coloring:           1.3 Oz
+Distilled Vinegar:           0.3 Oz
+

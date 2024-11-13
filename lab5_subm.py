@@ -70,6 +70,12 @@ def print_chocolate_cake(size):
     vanilla_extract = (chocolate_ve / 100) * size
     boiling_water = (chocolate_bw / 100) * size
 
+    if size == 64:
+        print("Regular Chocolate Cake Ingredient list:\n")
+    else:
+        print("Large Chocolate Cake Ingredient list:\n")
+
+
     print("Flour: {:25.1f} Oz\nSugar: {:25.1f} Oz\nUnsweetened Cocoa Powder: {:6.1f} Oz\nBaking Powder: {:17.1f} Oz"
           "\nBaking Soda: {:19.1f} Oz\nSalt: {:26.1f} Oz\nEgg: {:27.1f} Oz\nButtermilk: {:20.1f} Oz"
           "\nOil: {:27.1f} Oz\nVanilla Extract: {:15.1f} Oz\nBoiling Water: {:17.1f} Oz\n"
@@ -219,11 +225,9 @@ while True:
     if customer_cake == 1:
         # Regular sized cake
         if uppercase_letter == "R":
-            print("Regular Chocolate Cake Ingredient list:\n")
             print_chocolate_cake(regular)
         # Large sized cake
         else:
-            print("Large Chocolate Cake Ingredient list:\n")
             print_chocolate_cake(large)
 
     # Red velvet cake
