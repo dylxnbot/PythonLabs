@@ -99,8 +99,9 @@ fill_lemon_zest_wt):
         print("%-28s%5.1f Oz" % ("Filling - Butter: ", fill_butter_wt))
     if fill_lemon_zest_wt != 0:
         print("%-28s%5.1f Oz" % ("Filling - Lemon Zest: ", fill_lemon_zest_wt))
+
     # Verification - back calcuation to get total weight
-    print("%-28s%5.1f Oz" % ("Total: ", flour_wt + sugar_wt + unsweetened_cocoa_powder_wt + baking_powder_wt + salt_wt +
+    print("\n%-28s%5.1f Oz" % ("Total: ", flour_wt + sugar_wt + unsweetened_cocoa_powder_wt + baking_powder_wt + salt_wt +
                              egg_wt + butter_wt + oil_wt + vanilla_extract_wt + boiling_water_wt + red_food_coloring_wt
                              + distilled_vinegar_wt + butter_wt + sifted_self_rising_flour_wt + fill_egg_yolk_wt +
                              fill_sugar_wt + fill_butter_wt + fill_lemon_zest_wt + baking_soda_wt) )
@@ -188,7 +189,7 @@ def calc_n_print_chocolate_ingrd(cake_wt, size_label):
     ***************************************************************************
     """
     # First, print the header
-    header = "Ingredient Quantities for %s Chocolate Cake" % (size_label)
+    header = "%s Chocolate Cake Ingredient List\n" % (size_label)
     print(header)
     print_ingrd(flour_wt, sugar_wt, unsweetened_cocoa_powder_wt,
     baking_powder_wt, baking_soda_wt, salt_wt, egg_wt,
@@ -482,3 +483,134 @@ Program Starts Here
 *******************************************************************************
 '''
 make_cake_loop()
+
+
+
+
+"""
+This is the record of execution
+
+C:\PycharmProjects\.venv\Scripts\python.exe C:\PycharmProjects\pythonProject\lab7test.py 
+Please Select Cake Type; Enter 1 for Chocolate, 2 for Red Velvet, 3 for Lemon, q to quit: 2
+Please Select Cake Size; Enter L for large, R for regular: l
+
+Large Red Velvet Cake Ingredient List
+
+Flour                         25.1 Oz
+Sugar                         25.1 Oz
+Baking Soda                    0.8 Oz
+Salt                           0.4 Oz
+Unsweetened Cocoa Powder       0.4 Oz
+Oil                           26.9 Oz
+Buttermilk                    20.0 Oz
+Egg                           10.1 Oz
+Red Food Coloring              2.4 Oz
+Vanilla Extract                0.3 Oz
+Distilled Vinegar              0.4 Oz
+
+Total:                       112.0 Oz
+
+
+Please Select Cake Type; Enter 1 for Chocolate, 2 for Red Velvet, 3 for Lemon, q to quit: 3
+Please Select Cake Size; Enter L for large, R for regular: r
+
+Regular Lemon Cake Ingredient List
+
+Butter                         5.4 Oz
+Sugar                          9.6 Oz
+Egg                            5.8 Oz
+Sifted Self Rising Flour      10.0 Oz
+Buttermilk                     5.8 Oz
+Vanilla Extract                0.1 Oz
+Filling - Egg Yolk            11.5 Oz
+Filling - Sugar                7.2 Oz
+Filling - Butter               1.3 Oz
+Filling - Lemon Zest           7.3 Oz
+
+Total:                        64.0 Oz
+
+
+Please Select Cake Type; Enter 1 for Chocolate, 2 for Red Velvet, 3 for Lemon, q to quit: 3
+Please Select Cake Size; Enter L for large, R for regular: l
+
+Large Lemon Cake Ingredient List
+
+Butter                         9.5 Oz
+Sugar                         16.8 Oz
+Egg                           10.1 Oz
+Sifted Self Rising Flour      17.5 Oz
+Buttermilk                    10.1 Oz
+Vanilla Extract                0.2 Oz
+Filling - Egg Yolk            20.0 Oz
+Filling - Sugar               12.7 Oz
+Filling - Butter               2.4 Oz
+Filling - Lemon Zest          12.8 Oz
+
+Total:                       112.0 Oz
+
+
+Please Select Cake Type; Enter 1 for Chocolate, 2 for Red Velvet, 3 for Lemon, q to quit: 1
+Please Select Cake Size; Enter L for large, R for regular: r
+
+Regular Chocolate Cake Ingredient List
+
+Flour                         10.1 Oz
+Sugar                         15.7 Oz
+Unsweetened Cocoa Powder       3.6 Oz
+Baking Powder                  0.3 Oz
+Baking Soda                    0.4 Oz
+Salt                           0.3 Oz
+Egg                            5.8 Oz
+Buttermilk                    11.5 Oz
+Oil                            5.2 Oz
+Vanilla Extract                0.4 Oz
+Boiling Water                 10.9 Oz
+
+Total:                        64.0 Oz
+
+
+Please Select Cake Type; Enter 1 for Chocolate, 2 for Red Velvet, 3 for Lemon, q to quit: 2
+Please Select Cake Size; Enter L for large, R for regular: r
+
+Regular Red Velvet Cake Ingredient List
+
+Flour                         14.3 Oz
+Sugar                         14.3 Oz
+Baking Soda                    0.4 Oz
+Salt                           0.3 Oz
+Unsweetened Cocoa Powder       0.3 Oz
+Oil                           15.4 Oz
+Buttermilk                    11.5 Oz
+Egg                            5.8 Oz
+Red Food Coloring              1.3 Oz
+Vanilla Extract                0.2 Oz
+Distilled Vinegar              0.3 Oz
+
+Total:                        64.0 Oz
+
+
+Please Select Cake Type; Enter 1 for Chocolate, 2 for Red Velvet, 3 for Lemon, q to quit: 1
+Please Select Cake Size; Enter L for large, R for regular: l
+
+Large Chocolate Cake Ingredient List
+
+Flour                         17.7 Oz
+Sugar                         27.4 Oz
+Unsweetened Cocoa Powder       6.3 Oz
+Baking Powder                  0.4 Oz
+Baking Soda                    0.7 Oz
+Salt                           0.4 Oz
+Egg                           10.1 Oz
+Buttermilk                    20.2 Oz
+Oil                            9.1 Oz
+Vanilla Extract                0.7 Oz
+Boiling Water                 19.0 Oz
+
+Total:                       112.0 Oz
+
+
+Please Select Cake Type; Enter 1 for Chocolate, 2 for Red Velvet, 3 for Lemon, q to quit: q
+Bye!
+
+Process finished with exit code 0
+"""
