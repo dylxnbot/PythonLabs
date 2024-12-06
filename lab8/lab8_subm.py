@@ -175,10 +175,11 @@ class Cake:
 
         Date: 11/30/2024
 
-        Modifications: 12/3/2024
+        Modifications: 12/4/2024
 
         Description:
-        This function takes in no parameters. FINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTIONFINSIH THIS DECRIPTION
+        This function takes in no parameters. It returns a string with a header for the cake size and type. It then adds
+        to the string a list of formatted ingredients according to the cake type.
         ***************************************************************************
         """
         cake_string = f"Ingredient Quantities for {self.cake_size} {self.name} Cake\n"
